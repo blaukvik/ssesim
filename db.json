@@ -1,9 +1,16 @@
 {
   "posts": [
     {
+      "id": 1,
       "addato": 121,
       "ProjectName": "Bøtte"
+    },
+      {
+      "id": 2,
+      "addato": 21,
+      "ProjectName": "Lopp"
     }
+    
   ],
   "profile": {
     "name": "typicode"
